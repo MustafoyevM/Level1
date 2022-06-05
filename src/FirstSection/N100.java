@@ -22,7 +22,7 @@ public class N100 {
 //        System.out.println(count);
     }
 }
-class Solution {
+class Solution1 {
     public boolean solve(String s) {
         return backtrack(s, 0, null, 0);
     }
